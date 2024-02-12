@@ -113,9 +113,9 @@ TARGET_USES_LOGD := true
 TW_USE_TOOLBOX := true
 
 # SHRP Flags
-SHRP_PATH := device/samsung/gtaxllte
+SHRP_PATH := device/samsung/gtaxlwifi
 SHRP_MAINTAINER := SeifHecker2099
-SHRP_DEVICE_CODE := gtaxllte
+SHRP_DEVICE_CODE := gtaxlwifi
 SHRP_DARK := true
 SHRP_EDL_MODE := 0
 SHRP_EXTERNAL := /external_sd
